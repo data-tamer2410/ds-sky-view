@@ -1,0 +1,1826 @@
+Sydney
+Melbourne
+Brisbane
+Perth (WA)
+Adelaide
+Gold Coast - Tweed Heads (Gold Coast Part)
+Canberra - Queanbeyan (Canberra Part)
+Newcastle
+Central Coast
+Wollongong
+Sunshine Coast
+Hobart
+Townsville
+Geelong
+Cairns
+Darwin
+Toowoomba
+Ballarat
+Bendigo
+Maitland (NSW)
+Mackay
+Launceston
+Bunbury
+Rockhampton
+Gold Coast - Tweed Heads (Tweed Heads Part)
+Melton
+Hervey Bay
+Bundaberg
+Wagga Wagga
+Coffs Harbour
+Albury - Wodonga (Albury Part)
+Shepparton - Mooroopna
+Port Macquarie
+Orange
+Canberra - Queanbeyan (Queanbeyan Part)
+Albury - Wodonga (Wodonga Part)
+Sunbury
+Dubbo
+Tamworth
+Bathurst
+Mildura - Buronga (Mildura Part)
+Gladstone
+Geraldton
+Nowra - Bomaderry
+Warrnambool
+Kalgoorlie - Boulder
+Albany
+Blue Mountains
+Lismore
+Gawler
+Mount Gambier
+Traralgon
+Busselton
+Alice Springs
+Devonport
+Goulburn
+Maryborough (Qld)
+Cessnock
+Whyalla
+Bowral - Mittagong
+Armidale
+Forster - Tuncurry
+Burnie - Somerset
+Griffith
+Morisset - Cooranbong
+Wangaratta
+Mount Isa
+Gympie
+Ocean Grove - Barwon Heads
+Nambour
+Bongaree - Woorim
+Taree
+Broken Hill
+Bacchus Marsh
+Torquay - Jan Juc
+Murray Bridge
+Grafton
+Kurri Kurri
+Mount Barker (SA)
+Ballina
+Yeppoon
+Karratha
+Horsham
+Victor Harbor
+Crafers - Bridgewater
+Moe - Newborough
+Warragul
+Port Lincoln
+Broome
+Nelson Bay
+Warwick
+Port Hedland
+Port Pirie
+Morwell
+Emerald
+Sale
+Kiama
+Lara
+Raymond Terrace
+Singleton
+Ulladulla
+Bairnsdale
+Echuca - Moama (Echuca Part)
+Port Augusta
+Drysdale - Clifton Springs
+Ulverstone
+Dalby
+Colac
+Drouin
+Leopold
+Lithgow
+Batemans Bay
+Bargara - Innes Park
+Mudgee
+Gracemere
+Kempsey
+Swan Hill
+Esperance
+Muswellbrook
+St Georges Basin - Sanctuary Point
+Kingaroy
+Portland (Vic.)
+Casino
+Parkes
+Castlemaine
+Gisborne
+Inverell
+Tannum Sands - Boyne Island
+Highfields
+Airlie Beach - Cannonvale
+Benalla
+Byron Bay
+Murwillumbah
+Sandstone Point - Ningi
+Medowie
+Hamilton
+Yanchep
+Bowen
+Wallan
+Healesville
+Moranbah
+Ayr
+Cowra
+Charters Towers
+Gunnedah
+Wonthaggi
+Moss Vale
+Yarrawonga - Mulwala (Yarrawonga Part)
+Mareeba
+Goolwa
+Camden Haven
+Merimbula
+Maryborough (Vic.)
+Moree
+Tamborine Mountain
+Innisfail
+Collie
+Young
+Forbes
+Kilmore
+Leeton
+Ararat
+Portarlington - St Leonards
+Wauchope
+Atherton
+Roma
+Deniliquin
+Pottsville
+Northam
+Margaret River
+Cooma
+Gatton
+Nambucca Heads
+Katherine
+Tumut
+Lennox Head
+Helensburgh
+Lakes Entrance
+Yamba
+Dunsborough
+Gordonvale
+Narrabri
+Kyabram
+Chinchilla
+Seymour
+New Norfolk
+Beaudesert
+Summerland Point - Gwandalan
+Biloela
+Mount Cotton
+Nuriootpa
+Cootamundra
+Echuca - Moama (Moama Part)
+Jimboomba - West
+Goondiwindi
+Stawell
+Strathalbyn
+Yass
+Cobram
+Corowa - Wahgunyah (Corowa Part)
+Salamander Bay - Soldiers Point
+Wynyard
+Glen Innes
+Leongatha
+Naracoorte
+Inverloch
+Alstonville
+Anna Bay - Boat Harbour
+Beerwah
+South West Rocks
+Bannockburn
+Stanthorpe
+Woolgoolga
+Scone
+Cowes
+Kyneton
+Nairne
+Kensington Grove - Regency Downs
+Junee
+Millicent
+Renmark
+Dodges Ferry - Lewisham
+Blackwater
+Kadina
+Emu Park
+Churchill
+Newman
+Tahmoor
+Silverdale - Warragamba
+Wingham
+Wellington
+Carnarvon
+Gerringong
+Ingham
+Kununurra
+Tanunda
+Oakey
+Maffra
+Port Douglas - Craiglie
+Ocean Shores
+Narrogin
+Jimboomba
+George Town
+Blackheath
+Manjimup
+Palmwoods
+Moonta
+Bega
+Berri
+Woori Yallock - Launching Place
+Tanilba Bay
+Yarrabilba
+Temora
+Tatura
+Wallaroo
+Lowood
+Whittlesea
+Weipa
+Pinjarra
+Richmond North
+Romsey
+Loxton
+Old Bar
+Broadford
+Landsborough
+Woodend
+Cobar
+Point Lonsdale - Queenscliff
+Narrandera
+Katanning
+Numurkah
+Korumburra
+Kerang
+Sandy Beach - Emerald Beach
+Roxby Downs
+Glass House Mountains
+Narromine
+Laidley
+Culburra Beach - Orient Point
+Latrobe
+Estella
+Trafalgar
+Picton
+Westbrook
+Beachmere
+Calliope
+Daylesford - Hepburn Springs
+Mansfield
+Proserpine
+Nanango
+Paynesville
+Sarina
+Sussex Inlet
+Port Sorell
+Narooma
+Longford
+Clare
+Derby
+Bungendore
+Smithton
+Mullumbimby
+Bargo
+Legana
+Walkerston
+Riddells Creek
+Penguin
+McLaren Vale
+Nhulunbuy
+Bellingen
+Shoalhaven Heads
+Charleville
+Callala Bay
+Mooloolah
+Eden
+Port Fairy
+Thirlmere
+Pittsworth
+Tennant Creek
+Camperdown
+Yarra Junction - Wesburn
+Calala
+Blayney
+Home Hill
+Tom Price
+Thursday Island
+Woodford
+Beechworth
+Lake Cathie
+Red Cliffs
+Tenterfield
+Euroa
+Cooroy
+Harrington
+Midway Point
+Condobolin
+Evans Head
+Russell Island
+Angle Vale
+Maleny
+Macedon
+Macksville
+Port Denison - Dongara
+Myrtleford
+Fernvale
+Branxton
+Bonny Hills
+Kyogle
+Harvey
+Greta
+West Wyalong
+Creswick
+Longreach
+Rochester
+Vincentia
+Boonah
+Quirindi
+Macleay Island
+Bordertown
+Burnett Heads
+Merredin
+Cooloola Village
+Perth (Tas.)
+Maclean
+Urunga
+Kapunda
+Gilgandra
+Lemon Tree Passage
+Eynesbury
+Yarrabah
+Denmark
+York
+Anglesea
+Sorell
+Coonabarabran
+Bundanoon
+Logan Village
+Moruya
+Glossodia
+Donnybrook
+Cedar Vale
+Exmouth
+Oberon
+Pitt Town
+Palm Island
+Dysart
+Deloraine
+Alexandra
+Uralla
+Mount Morgan
+Coonamble
+Howlong
+Mannum
+Waroona
+St George
+Gloucester
+Tea Gardens
+Marian
+Tocumwal
+Rosewood
+Hay
+Balnarring - Balnarring Beach
+Warracknabeal
+Bright
+Maningrida
+Margate
+Ballan
+Yarra Glen
+Meringandan West
+Koo Wee Rup
+Wadeye
+Two Rocks
+Cloncurry
+Broulee - Mossy Point
+Tuross Head
+Kuranda
+Tin Can Bay
+Forest Hill
+Tully
+Hadspen
+Malua Bay
+Beaconsfield Upper
+Hill Top
+Hahndorf
+Williamstown
+Samford Valley - Highvale
+Ceduna
+Mildura - Buronga (Buronga Part)
+Robinvale
+Dungog
+Willunga
+Alice River
+Diggers Rest
+Lobethal
+Moore Park
+Wollongbar
+Rutherglen
+Crookwell
+Manilla
+Galiwinku
+Toogoom
+Wallerawang
+Berry
+Murgon
+Drummond Cove
+Freeling
+Angaston
+Clermont
+St Arnaud
+Terang
+Capel
+Orbost
+Oakhurst (L)
+Gowrie Junction
+South Golden Beach
+Wilberforce
+Nyngan
+Cedar Grove
+Merbein
+Guyra
+Grenfell
+Harden - Murrumburrah
+Bunyip
+Yarrawonga - Mulwala (Mulwala Part)
+Gulgong
+Portland (NSW)
+Dayboro
+Barmera
+Dalmeny
+Two Wells
+Gundagai
+Bundeena
+Mount Barker (WA)
+Balaklava
+Normanville
+Scottsdale
+Kilcoy
+Warburton
+Aberdeen
+Bullsbrook
+Finley
+Yandina
+Beveridge
+Woodside
+Cohuna
+Hamilton Island
+Stratford
+Huonville
+Cooroibah (L)
+Middlemount
+Bourke
+Wondai
+Glenview (L)
+Lyndoch
+Jacobs Well
+Kambalda West
+Kingscote
+Seville
+Jindabyne
+Mossman
+Baranduda
+Queenstown
+Nhill
+Curra (L)
+Cooktown
+Murrumbateman
+Pomona
+Yarram
+Nagambie
+Heathcote
+Buxton
+Gayndah
+Iluka
+Crows Nest
+Little Grove
+Mirboo North
+Coolamon
+Mount Beauty - Tawonga South
+Bangalow
+Kooralbyn
+Cape Woolamai
+Kootingal
+Molong
+The Oaks
+Malanda
+Teesdale (L)
+Barooga
+Wandong - Heathcote Junction
+Kingston SE
+Arrawarra
+Kingsthorpe
+Wee Waa
+Waikerie
+Coober Pedy
+Withcott
+Fingal Bay
+Gulmarrad
+Flying Fish Cove
+Lewiston
+Winchelsea
+Koroit
+Wonga Park
+Pambula
+Millgrove
+Moora
+King Creek (L)
+Wickham
+Wyee
+Wurrumiyanga (Nguiu)
+Cobden
+Snug
+Brunswick Heads
+Basin View
+Tathra
+Halls Creek (L)
+Corindi Beach
+Cowaramup
+Balhannah
+Walgett
+Old Erowal Bay
+River Heads
+Moura
+Longwarry
+Warren
+Googong
+Long Beach (L)
+Heyfield
+Mundijong (L)
+Tumbarumba
+Bermagui
+Westbury
+Lancefield
+Nathalia
+Bowen Mountain
+Walcha
+Appin
+Bridgetown
+Glenwood (L)
+St Helens
+Werris Creek
+Lightning Ridge
+Jurien Bay
+Dimboola
+Clunes (L) (Vic.)
+Peterborough
+Colo Vale
+Wyreema
+Tumby Bay
+Tailem Bend
+Canowindra
+Doomadgee
+Donald
+Stanwell Park
+Jamestown
+Meridan Plains
+Apollo Bay
+Millmerran
+Paraburdoo
+Wagin
+Kalbarri
+Wilton
+Hay Point
+Casterton
+Robertson
+Freemans Reach
+Gleneagle
+Crystal Brook
+Denman
+Tongala
+Valla Beach
+Penola
+Childers
+Milton
+Holbrook
+Jindera
+Barcaldine (L)
+Garfield
+Willowbank
+Junction Hill
+Braidwood
+Bridport
+Serpentine (L)
+Aurukun
+Cherbourg
+Tolga - West (L)
+Lake Cargelligo
+Kandos
+Maldon
+Heywood
+Esk (L)
+Burrum Heads
+Cardwell
+Plainland (L)
+Clifton
+Karuah
+Chiltern
+Wongaling Beach
+Smiths Lake
+Boorowa
+Milingimbi
+Wentworth
+Rosedale
+Binningup
+Walloon
+Hawks Nest (L)
+Rainbow Beach
+Greenwell Point
+Metung (L)
+San Remo
+Normanton (L)
+Blind Bight
+Bombala
+Laidley Heights (L)
+Jandowae (L)
+Allingham
+Corryong
+Cambewarra Village
+Gembrook
+Warialda
+Nelly Bay
+Wyee Point
+Beauty Point
+Yea
+Ardrossan (L)
+Foster
+Balranald
+Bamaga
+Lang Lang
+Kojonup (L)
+Barham - Koondrook (Barham Part)
+Mundubbera
+Bakers Creek (L)
+Kinglake (L)
+Ngukurr
+Boddington - Ranford (L)
+Galston
+Cambooya
+Fitzroy Crossing
+Gununa
+Culcairn
+Miles
+Frederickton
+Quorn (L)
+Barraba
+Yerrinbool (L)
+Tieri
+Sheffield
+Salt Ash (L)
+Yarragon
+McLaren Flat
+Aireys Inlet - Fairhaven
+Mount Compass
+Evandale
+Gunbalanya (Oenpelli)
+Tooradin
+Bulahdelah
+Mortlake
+Augusta
+Collinsville
+Dampier
+Yallourn North
+Skennars Head
+Yulara (L)
+Hillston
+Coraki (L)
+Wallacia
+Kurrajong
+Woodgate
+Jabiru (L)
+Keith (L)
+Bingara
+Oakdale (L)
+Kiels Mountain (L)
+Beaufort
+Blackall (L)
+Douglas Park
+Beaconsfield
+Howard
+Primrose Sands
+Hughenden (L)
+Dorrigo
+Ouyen
+Yungaburra
+Mulambin
+Port Broughton
+Monto
+Maitland (SA)
+Lorne
+Toogoolawah
+Corowa - Wahgunyah (Wahgunyah Part)
+Cunnamulla (L)
+Yenda
+Batlow
+Rangewood
+Capella (L)
+D'Aguilar
+Mallacoota (L)
+Tomakin
+Robe
+Yackandandah (L)
+The Palms (L)
+Mirani (L)
+Cowell (L)
+Paringa (L)
+Eumundi (L)
+Tolga (L)
+Streaky Bay (L)
+Toodyay (L)
+Merriwa (L)
+Avoca (L)
+Moruya Heads (L)
+Jamberoo (L)
+Mount Victoria (L)
+Wurruk (L)
+Emerald Beach West (L)
+Bluewater Park (L)
+Grindelwald (L)
+Balgal Beach (L)
+Charlton (L)
+Rushworth (L)
+Cumbalum (L)
+Macclesfield (L)
+Woorabinda (L)
+Greenock (L)
+Wallalong (L)
+Babinda (L)
+Kurrajong Heights (L)
+Grantville - Pioneer Bay (L)
+Berridale (L)
+Cooran (L)
+North Pinjarra (L)
+Bowraville (L)
+Henty (L)
+Napranum (L)
+Sunshine Acres (L)
+Hallidays Point - Black Head (L)
+Roseworthy (L)
+Kowanyama (L)
+Wundowie (L)
+Mundoolun (L)
+Kingswood (L)
+Venus Bay (L)
+Murrays Beach (L)
+Safety Beach (L)
+Smithtown - Gladstone (L)
+Darlington Point (L)
+Berrigan (L)
+East Warburton (L)
+Middleton (L)
+Cygnet (L)
+Tallangatta (L)
+Flaxton (L)
+Beverley (L)
+Blue Mountain Heights (L)
+Gapuwiyak (L)
+Mapleton (L)
+Marong (L)
+South Mission Beach (L)
+Crescent Head (L)
+Uraidla - Summertown (L)
+Clarence Town (L)
+Herberton (L)
+Kureelpa (L)
+Burra (L)
+Paxton (L)
+Agnes Water (L)
+Ellalong (L)
+Goldsborough (L)
+Scotts Head (L)
+Nowra Hill (L)
+Belvedere (L)
+Birdwood (L)
+The Rock (L)
+Nords Wharf (L)
+Black River (L)
+Dunwich (L)
+Murrurundi (L)
+Townsend (L)
+Diamond Beach (L)
+Kellerberrin (L)
+Ranelagh (L)
+Alyangula (L)
+Borroloola (L)
+Winton (L)
+Ramingining (L)
+Waterview Heights (L)
+Coolgardie (L)
+Rockbank (L)
+Yarraman (L)
+Kendall (L)
+Richmond (L) (Tas.)
+Brandy Hill (L)
+Chidlow (L)
+Gin Gin (L)
+Springsure (L)
+Witta (L)
+Boggabri (L)
+Carisbrook (L)
+Angurugu (L)
+Brewarrina (L)
+Meningie (L)
+Gingin (L)
+Ravenshoe (L)
+Coleraine (L)
+Hope Vale (L)
+Elliott Heads (L)
+Onslow (L)
+Avenel (L)
+Kinglake West (L)
+Eagle Point (L)
+Allora (L)
+Neerim South (L)
+Benaraby (L)
+Campbell Town (L)
+Cape Paterson (L)
+Lawrence (L)
+Railton (L)
+Adelong (L)
+Barham - Koondrook (Koondrook Part)
+Minden Village (L)
+Moonee Beach (L)
+Richmond Hill (L)
+Woombah (L)
+Wonga Beach (L)
+Badu Island (L)
+Lockhart (L)
+Pingelly (L)
+Mission Beach (L)
+Yirrkala (L)
+Tara (L)
+Loch Sport (L)
+Lower Beechmont (L)
+Boyanup (L)
+Jerilderie (L)
+Meadows (L)
+Kalbar (L)
+Northampton (L)
+Mitchell (L)
+Minlaton (L)
+Hopetoun Park (L)
+Coolah (L)
+Lake Boga (L)
+Timboon (L)
+Coronet Bay (L)
+Riverton (L)
+Samford Village (L)
+Cleve (L)
+Canungra (L)
+Delaneys Creek (L)
+Cunderdin (L)
+Virginia (L)
+Brunswick (L)
+Huskisson (L)
+Trangie (L)
+Ocean Beach (L)
+Erowal Bay (L)
+Inglewood (L) (Qld)
+Uranquinty (L)
+Batesford (L)
+Goombungee (L)
+Muchea (L)
+Surf Beach - Sunderland Bay (L)
+Jilliby (L)
+Yuendumu (L)
+Trentham (L)
+Millfield (L)
+Coochiemudlo Island (L)
+Milang (L)
+Tinonee (L)
+Norfolk Island (L)
+Jarrahdale (L)
+Pacific Haven (L)
+Murchison (L)
+Kambalda East (L)
+Triabunna (L)
+Booral (L)
+Boort (L)
+Helidon (L)
+Dunedoo (L)
+Murtoa (L)
+Bicheno (L)
+Corrigin (L)
+Black Mountain (L)
+Eildon (L)
+Inglewood (L) (Vic.)
+Mulgoa (L)
+Texas (L)
+Mallala (L)
+Bouldercombe (L)
+Millthorpe (L)
+Cummins (L)
+Brooklyn (L)
+Numbulwar (L)
+Allansford (L)
+Peak Hill (L)
+Pemberton (L)
+Fern Tree (L)
+Wongan Hills (L)
+Bakers Hill (L)
+Inverleigh (L)
+Brandon (L)
+Minmi (L)
+Stroud (L)
+Lancelin (L)
+Killarney (L)
+Point Lookout (L)
+Kalaru (L)
+Thagoona (L)
+Deebing Heights (L)
+Biggenden (L)
+Rosebery (L)
+Tallwoods Village (L)
+Gumeracha (L)
+Nyora (L)
+Armstrong Beach (L)
+Yankalilla (L)
+Pormpuraaw (L)
+Bluewater (L)
+Dalwallinu (L)
+Zeehan (L)
+Lockhart River (L)
+Denham (L)
+Pannawonica (L)
+Sharon (L)
+Corinella (L)
+Stieglitz (L)
+Edenhope (L)
+Marulan (L)
+Toorbul (L)
+Violet Town (L)
+Bawley Point (L)
+Birchip (L)
+Dunolly (L)
+Stuarts Point (L)
+Glenorie (L)
+Wallabi Point (L)
+Humpty Doo (L)
+Port MacDonnell (L)
+Howden (L)
+Moriac (L)
+Elmore (L)
+Killingworth (L)
+Gabbadah (L)
+Cressy (L)
+Currie (L)
+Forest Acres (L)
+Seville East (L)
+Wardell (L)
+Wedderburn (L)
+Coleambally (L)
+Gnarabup - Prevelly (L)
+Yanderra (L)
+Mathoura (L)
+Clifton Grove (L)
+Strahan (L)
+Nunderi (L)
+Hastings Point (L)
+Glengarry (L)
+Hilbert (L)
+Repton (L)
+Yorketown (L)
+Ventnor (L)
+Gerroa (L)
+Swansea (L)
+Woodridge Estate (L)
+Rubyvale (L)
+Malmsbury (L)
+Lake Tabourie (L)
+Porepunkah (L)
+Werribee South (L)
+Rylstone (L)
+Flinders (L)
+Southern Cross (L)
+Boyland (L)
+Yabulu (L)
+Blackbutt (L)
+Cardup (L)
+Roebourne (L)
+Nabiac (L)
+Gladstone (L)
+Newlands Arm (L)
+Kimba (L)
+Minyerri (L)
+Kinka Beach (L)
+Baradine (L)
+Bidyadanga (La Grange) (L)
+Kaniva (L)
+Menangle (L)
+Cockatoo Valley (L)
+North Rothbury (L)
+Geeveston (L)
+Hamley Bridge (L)
+South Arm (L)
+Woodburn (L)
+Beechwood (L)
+Hanwood (L)
+Quairading (L)
+Cowan (L)
+Cannons Creek (L)
+Kurrimine Beach (L)
+Wongarbon (L)
+Coffin Bay (L)
+Wooroowoolgan (L)
+Yinnar (L)
+East Jindabyne (L)
+Wallaga Lake (L)
+Wyndham (L)
+Burekup (L)
+Hermannsburg (L)
+Greendale (L)
+Coominya (L)
+Ganmain (L)
+Gnowangerup (L)
+Medlow Bath (L)
+Curlewis (L)
+Marburg (L)
+Lajamanu (L)
+Cunjurong Point - Manyana (L)
+Howard Springs (L)
+Lake Tyers Beach (L)
+Lower Chittering Valley (L)
+Wycheproof (L)
+Briagolong (L)
+Lanena - Blackwall (L)
+Clifton Beach (L)
+Lethbridge (L)
+Mount Pleasant (L)
+Wangan (L)
+Brookton (L)
+Belimbla Park (L)
+New Berrima (L)
+One Tree Hill (L)
+Santa Teresa (Ltyentye Purte) (L)
+Willyaroo (L)
+Glenden (L)
+Nannup (L)
+Aldershot (L)
+Ewingsdale (L)
+Hopetoun (L) (WA)
+Berrara - Cudmirrah (L)
+Bushfield - Woodford (L)
+Maryknoll (L)
+Horseshoe Bay (L)
+Newstead (L)
+Sea Lake (L)
+Warburton (L)
+Daguragu - Kalkarindji (L)
+Putta Bucca - Bombira (L)
+Meekatharra (L)
+Norseman (L)
+Aldinga (L)
+Sloping Hummock (L)
+Stansbury (L)
+Walla Walla (L)
+Gravelly Beach (L)
+Smythesdale (L)
+Cardigan Village (L)
+Echunga (L)
+Gooburrum (L)
+Prince Henry Heights (L)
+Sapphire (L)
+Glenore Grove (L)
+Quilpie (L)
+Coutts Crossing (L)
+Nome (L)
+Lameroo (L)
+Leonora (L)
+Port Wakefield (L)
+Sulphur Creek (L)
+Eudunda (L)
+Glendale (L)
+Injinoo (L)
+Boggabilla (L)
+Kings Point (L)
+Pie Creek (L)
+Raymond Island (L)
+Allanson (L)
+Beechmont (L)
+Boolarra (L)
+Wilcannia (L)
+Pinnaroo (L)
+Cooya Beach (L)
+Gunning (L)
+Wudinna (L)
+Bruthen (L)
+Firgrove (L)
+Oatlands (L)
+Birregurra (L)
+Orroroo (L)
+Electrona (L)
+Hopetoun (L) (Vic.)
+Moonee Beach West (L)
+Orford (L)
+Harcourt (L)
+Modanville (L)
+Wugular (Beswick) (L)
+Taroom (L)
+Barnawartha (L)
+Green Point (L)
+Horn Island (L)
+Mareeba - South (L)
+Karumba (L)
+Looma (L)
+Nar Nar Goon (L)
+Burringbar (L)
+Cervantes (L)
+Tintenbar (L)
+Bruce Rock (L)
+Goomalling (L)
+Traralgon South (L)
+Apple Tree Creek (L)
+Boyup Brook (L)
+Campwin Beach (L)
+Strathmerton (L)
+Cudgen (L)
+Nebo (L)
+Clunes (L) (NSW)
+Euston (L)
+Goomeri (L)
+Richmond (L) (Qld)
+Red Head (L)
+Warneet (L)
+Eugowra (L)
+Scamander (L)
+Wyalong (L)
+Dunkeld (L)
+Greenmount (L)
+Kanmantoo (L)
+Louth Park (L)
+Maianbar (L)
+Morawa (L)
+Dareton (L)
+Coomba Park (L)
+Yanco (L)
+Cabarita (L)
+Umbakumba (L)
+Cremorne (L)
+Houghton (L)
+Lake Grace (L)
+Toongabbie (L)
+Cape Burney (L)
+Pukatja (Ernabella) (L)
+Brightview (L)
+Rainbow (L)
+Ali Curung (L)
+Mount Julian (L)
+Cabbage Tree Point (L)
+Dover (L)
+Manildra (L)
+Rhyll (L)
+Seaforth (L)
+Boomerang Beach - Blueys Beach (L)
+Glenreagh (L)
+Waterfall (L)
+Nangwarry (L)
+Geurie (L)
+Laura (L) (SA)
+Poona (L)
+Nichols Point (L)
+Broadwater (L)
+Fishermans Paradise (L)
+Peachester (L)
+Tingha (L)
+Lindenow (L)
+Peak Crossing (L)
+Forest Hill (L)
+Gundaroo (L)
+Low Head (L)
+Tamborine (L)
+Dalyston (L)
+Narembeen (L)
+Stanley (L)
+Tully Heads (L)
+Port Vincent (L)
+Wooroloo (L)
+Nyah West (L)
+Bagdad (L)
+Peppermint Grove Beach (L)
+St Marys (L)
+Batchelor (L)
+Clyde (L)
+Saibai Island (L)
+Tiaro (L)
+Wagait Beach - Mandorah (L)
+Wingello (L)
+Meeniyan (L)
+Wallangarra (L)
+Donnybrook (L)
+Amata (L)
+Shoreham (L)
+South Pambula (L)
+Aratula (L)
+Edithburgh (L)
+Gordon (L)
+Mount Magnet (L)
+Sunset Strip (L)
+Marlo (L)
+Mer (Murray) Island (L)
+Stanhope (L)
+Callington (L)
+Captains Flat (L)
+Currarong (L)
+Dardanup (L)
+Nimbin (L)
+Stanwell Tops (L)
+Yarramundi (L)
+Mungindi (NSW Part) (L)
+Luddenham (L)
+Enfield (L)
+Lochinvar (L)
+Ashford (L)
+Eidsvold (L)
+Golden Beach - Paradise Beach (L)
+Imbil (L)
+Theodore (L)
+Toora (L)
+Bell (L)
+Penshurst (L)
+Ulmarra (L)
+Beachport (L)
+Lamb Island (L)
+Collarenebri (L)
+Hillwood (L)
+Blyth (L)
+Pyalong (L)
+Bonville - East (L)
+Carrick (L)
+Umagico (L)
+Carmel (L)
+Oxley (L)
+Pyramid Hill (L)
+Kilkivan (L)
+Harrisville (L)
+Mourilyan (L)
+Alpurrurulam (L)
+Hyland Park (L)
+Bickley (L)
+Binnaway (L)
+Augathella (L)
+Flying Fish Point (L)
+Perthville (L)
+Merrigum (L)
+Skipton (L)
+Mount Nebo (L)
+Wilmington (L)
+Dunoon (L)
+Red Hill South (L)
+Julia Creek (L)
+Wooli (L)
+Menindee (L)
+Darnum (L)
+Seaham (L)
+Ampilatwatja (L)
+Trundle (L)
+Burrum Heads - East (L)
+Kalumburu (L)
+Kenthurst (L)
+Orchard Hills (L)
+Saunders Beach (L)
+Gilgai (L)
+Leinster (L)
+Boonooroo - Tuan (L)
+Home Island (L)
+Tangambalanga (L)
+Walungurru (Kintore) (L)
+Williams (L)
+Yungngora (L)
+Gulargambone (L)
+Lake Conjola (L)
+Surat (L)
+Hallidays Point - West (L)
+North Arm Cove (L)
+St Andrews (L)
+Wooloweyah (L)
+Miriam Vale (L)
+Exeter (L) (NSW)
+Lucinda (L)
+Truro (L)
+Burrum Heads - South (L)
+Lockington (L)
+Milikapiti (L)
+Campania (L)
+Bundarra (L)
+Papunya (L)
+The Caves (L)
+Tylden (L)
+Dales Creek (L)
+Natimuk (L)
+Djarindjin - Lombadina (L)
+Kaltukatjara (Docker River) (L)
+Wolumla (L)
+Arthurs Seat (L)
+Meredith (L)
+Mooney Mooney (L)
+Ridgley (L)
+Myponga (L)
+Sisters Beach (L)
+Coramba (L)
+Kendenup (L)
+Minyip (L)
+Placid Hills (L)
+Linton (L)
+South Johnstone (L)
+Thredbo Village (L)
+Herne Hill (L)
+Nganmarriyanga (Palumpa) (L)
+Ardlethan (L)
+Cobargo (L)
+Kersbrook (L)
+Snowtown (L)
+Mullewa (L)
+Warruwi (L)
+Auburn (L)
+Halifax (L)
+San Isidore (L)
+Three Springs (L)
+Exeter (L) (Tas.)
+Kitchener (L)
+Springton (L)
+Sarina Beach (L)
+Lord Howe Island (L)
+Bonville (L)
+Tomerong (L)
+Dowerin (L)
+Hideaway Bay - Dingo Beach (L)
+Nauiyu Nambiyu (Daly River) (L)
+Cape Schanck (L)
+Alligator Creek (L)
+Dwellingup (L)
+Dimbulah (L)
+Newhaven (L)
+Tambellup (L)
+Wimbledon Heights (L)
+Amity Point (L)
+Bellbridge (L)
+Bulla (L)
+Don Valley (L)
+Forth (L)
+Maloneys Beach (L)
+Bardi (One Arm Point) (L)
+Bracknell (L)
+Pirlangimpi (L)
+Lansdowne (L)
+New Mapoon (L)
+Wurdong Heights (L)
+Coopernook (L)
+Bullsbrook - West (L)
+Greenbushes (L)
+South Bingera (L)
+Warmun (L)
+Saddleworth (L)
+Barunga (L)
+Poowong (L)
+Dirranbandi (L)
+Ilparpa (L)
+Candelo (L)
+North Shore (L)
+Walligan (L)
+Rupanyup (L)
+Erakala (L)
+Beerburrum (L)
+Buln Buln (L)
+Tumbulgum (L)
+Cuballing (L)
+Kettering (L)
+Moonbi (L)
+Mulbring (L)
+Balgo (L)
+Bothwell (L)
+Eaglehawk Neck (L)
+Bingil Bay (L)
+Whitton (L)
+Toolamba (L)
+Cookernup (L)
+Kilcunda (L)
+Leeman (L)
+Awaba (L)
+Karoonda (L)
+Hinton (L)
+Jeparit (L)
+Wasleys (L)
+Beagle Bay (L)
+Cordalba (L)
+Kempton (L)
+Mylestom (L)
+Marysville (L)
+Conjola Park (L)
+Elliott (L)
+Picton - West (L)
+Boston (L)
+Rottnest Island (L)
+Laverton (L)
+Tarpeena (L)
+Fingal (L)
+Franklin (L)
+Morgan (L)
+South Durras (L)
+Agnes Banks (L)
+Attunga (L)
+Binalong (L)
+Wandoan (L)
+Barellan (L)
+Jigalong (L)
+Kiewa (L)
+Meringandan (L)
+Tottenham (L)
+Opossum Bay (L)
+Woollamia (L)
+Oakwood (L)
+Kangaroo Valley (L)
+Taralga (L)
+Walpole (L)
+Alpha (L)
+Pine Creek (L)
+Tambo (L)
+Bayulu (L)
+Tungamah (L)
+Coen (L)
+Glenrowan - North (L)
+North Dandalup (L)
+Balmoral (L)
+Beelbangera (L)
+Bridgewater (L)
+Charleston (L)
+Emmaville (L)
+Erub (Darnley) Island (L)
+Paterson (L)
+Woodstock (L)
+Beerburrum - North (L)
+Elliston (L)
+Keppel Sands (L)
+Farleigh (L)
+Injune (L)
+Bemboka (L)
+Bundalong (L)
+Mutitjulu (L)
+Newell (L)
+Learmonth (L)
+Tawonga (L)
+Halls Gap (L)
+Heybridge (L)
+Cudal (L)
+Iama (Yam) Island (L)
+Taylors Beach (L)
+Tinaroo (L)
+Wandiligong (L)
+Haliday Bay - Ball Bay (L)
+Mount Burr (L)
+Southbrook (L)
+Andamooka Opal Fields (L)
+Mapoon (L)
+Mundulla (L)
+Bauple Forest (L)
+Caniaba (L)
+Deepwater (L)
+Mataranka (L)
+Gresford (L)
+Nundle (L)
+Snake Valley (L)
+Dangar Island (L)
+Glenrowan (L)
+Bonalbo (L)
+Couridjah (L)
+Moulamein (L)
+Hat Head (L)
+Kulin (L)
+Point Turton (L)
+Port Germein (L)
+Ashley (L)
+Mount Torrens (L)
+Picnic Bay (L)
+Red Rock (L)
+Marrangaroo (L)
+Wyalkatchem (L)
+Tapitallee (L)
+Georgetown (L)
+Linden (L)
+Seahampton (L)
+Willowra (L)
+Clayton Bay (L)
+Jilkminggan (L)
+Otford (L)
+Torbanlea (L)
+Urana (L)
+Carnamah (L)
+Riverside (L)
+Yarralin (L)
+Boreen Point (L)
+Walkamin (L)
+Cranbrook (L)
+Fairy Hill (L)
+Millaa Millaa (L)
+Blackwood (L)
+Green Head (L)
+Nubeena (L)
+Dilston (L)
+Ungarie (L)
+Yeoval (L)
+Falls Creek (L) (Vic.)
+Bodalla (L)
+Eton (L)
+Spring Hill (L)
+Woodenbong (L)
+Arcadia Downs (L)
+Ravensthorpe (L)
+Booleroo Centre (L)
+Kalangadoo (L)
+Cungulla (L)
+Goolgowi (L)
+Grasstree Beach (L)
+Koorawatha (L)
+Abernethy (L)
+Bowning (L)
+Falls Creek (L) (NSW)
+Pindimar (L)
+Napperby (L)
+Aramac (L)
+Delungra (L)
+Tarraganda (L)
+Tynong (L)
+Tomago (L)
+Wickepin (L)
+Kurmond (L)
+Port Victoria (L)
+Swan Point (L)
+Wujal Wujal (L)
+Pallamallawa (L)
+Trebonne (L)
+Delegate (L)
+Coconuts (L)
+Bulman - Weemol (L)
+Hall (L)
+Little River (L)
+Gunbower (L)
+Hazeldene (L)
+Lismore (L)
+Rawson (L)
+Dunalley (L)
+Goornong (L)
+Lilydale (L)
+Mukinbudin (L)
+Ross (L)
+Springbrook (L)
+Talbot (L)
+Woorinen South (L)
+Mingenew (L)
+Penneshaw (L)
+Boulia (L)
+Allendale East (L)
+Cumnock (L)
+Lennox Head - West (L)
+Dartmoor (L)
+Mendooran (L)
+Balingup (L)
+Boigu Island (L)
+Thargomindah (L)
+White Beach (L)
+Yorke Island (L)
+Port Campbell (L)
+Warakurna (L)
+Adelaide River (L)
+Collinsvale (L)
+Proston (L)
+Seisia (L)
+Koorda (L)
+Lyndhurst (L)
+Owen (L)
+Thangool (L)
+Tintinara (L)
+Axedale (L)
+Eldorado (L)
+Hammond Island (L)
+Lockrose (L)
+Tallygaroopna (L)
+Willaura (L)
+Milawa (L)
+Willow Grove (L)
+Parham (L)
+Dookie (L)
+Mount Larcom (L)
+Tyalgum (L)
+Wangkatjungka (L)
+Bluff (L)
+Indulkana (L)
+Kioloa (L)
+Tucabia (L)
+Ariah Park (L)
+Cargo (L)
+Gawler (L)
+Giru (L)
+Leitchville (L)
+Mullaquana (L)
+Southend (L)
+Bilbul (L)
+Jerramungup (L)
+Broomehill Village (L)
+El Arish (L)
+Nyah (L)
+Mogo (L)
+St Pauls (L)
+Timber Creek (L)
+Sutton (L)
+Minjilang (L)
+Arcadia Bay (L)
+Derrinallum (L)
+Scottville (L)
+Manning Point (L)
+Mimili (L)
+Blanchetown (L)
+Alva Beach (L)
+Baralaba (L)
+Amoonguna (L)
+Bute (L)
+Gunyangara (L)
+Mount Buller (L)
+Omeo (L)
+Port Albert (L)
+American River (L)
+Laramba (L)
+Leigh Creek (L)
+Warraber Island (L)
+Manangatang (L)
+Wunghnu (L)
+Nilma (L)
+Nyirripi (L)
+Marengo (L)
+Myrniong (L)
+Cecil Plains (L)
+Hawker (L)
+Wiluna (L)
+Katandra West (L)
+Broke (L)
+Dinner Plain (L)
+Kondinin (L)
+Lucindale (L)
+Mount Perry (L)
+Arno Bay (L)
+Buxton (L)
+Tantanoola (L)
+Bremer Bay (L)
+Finch Hatton (L)
+Khancoban (L)
+Nimmitabel (L)
+Wirrabara (L)
+Kandanga (L)
+Lakewood Estate (L)
+Barmedman (L)
+Beeac (L)
+Darkan (L)
+Harrietville (L)
+Nahrunda (L)
+Smiths Beach (L)
+Yahl (L)
+Gowrie Mountain (L)
+Murphys Creek (L)
+Oaklands (L)
+Yelarbon (L)
+Titjikala (L)
+Atitjere (L)
+Kaltjiti (Fregon) (L)
+Yalata (L)
+Kialla West (L)
+Robinson River (Mungoorbada) (L)
+Menangle Park (L)
+Nana Glen (L)
+Smoky Bay (L)
+Talbingo (L)
+Waratah (L)
+Kenilworth (L)
+Yarloop (L)
+Maaroom (L)
+Angourie (L)
+Elizabeth Beach (L)
+Yuelamu (L)
+Goroke (L)
+Silkwood (L)
+Midge Point (L)
+Noorat (L)
+Mount Egerton (L)
+Spalding (L)
+Tullamore (L)
+Coral Bay (L)
+Nemingha (L)
+Macarthur (L)
+Cullen Bullen (L)
+Katamatite (L)
+Nelligen (L)
+Point Samson (L)
+Swan Reach (L)
+Mabuiag Island (L)
+Murrayville (L)
+Powelltown (L)
+Coolup (L)
+Urbenville (L)
+Binalong Bay (L)
+Brooms Head (L)
+Rainbow Flat (L)
+Shepparton East (L)
+Tarcutta (L)
+Tarzali (L)
+Wonga Park - South (L)
+Coobowie (L)
+Wallabadah (L)
+Burrawang (L)
+Guildford (L)
+Kalamia Estate (L)
+Minnie Water (L)
+Moyhu (L)
+Sandy Point (L)
+Stockinbingal (L)
+Adaminaby (L)
+Berrima (L)
+Karragarra Island (L)
+Maydena (L)
+Clarenza (L)
+Ladysmith (L)
+Mirriwinni (L)
+Perenjori (L)
+Tammin (L)
+Telegraph Point (L)
+Toolakea (L)
+Yangan (L)
+Clarendon (L)
+Woolsthorpe (L)
+Dumbleyung (L)
+Panton Hill (L)
+Toomelah (L)
+Cobdogla (L)
+Ivanhoe (L)
+Areyonga (L)
+Sawmill Settlement (L)
+Carcoar (L)
+Fish Creek (L)
+Mount Garnet (L)
+Mount Hotham (L)
+Oak Beach (L)
+Warooka (L)
+Bethanga (L)
+Dublin (L)
+Merinda (L)
+Apatula (Finke) (L)
+Wallumbilla (L)
+Binjari (L)
+Coonalpyn (L)
+Mole Creek (L)
+Patonga (L)
+Waterford Park (L)
+Bonny Hills - West (L)
+Jervis Bay (L)
+Branxholm (L)
+Quambatook (L)
+Tallarook (L)
+Chillagoe (L)
+Duaringa (L)
+Nullagine (L)
+Dauan Island (L)
+Toomulla (L)
+Tyers (L)
+Grantham (L)
+Underbool (L)
+Tjuntjuntjara (L)
+Canteen Creek (L)
+Uki (L)
+Carmoo (L)
+Tooleybuc (L)
+Goodooga (L)
+Cue (L)
+Papulankutja (L)
+Guilderton (L)
+Wutunugurra (L)
+Marble Bar (L)
+Burketown (L)
+Camooweal (L)
+Kiwirrkurra (L)
+Tullah (L)
+Bramston Beach (L)
+Mindibungu (L)
+Laura (L) (Qld)
+Woomera (L)
+Port Neill (L)
+West Island (L)
+Daintree (L)
+Willows Gemfields (L)
+Perisher Village (L)
+Seventeen Seventy (L)
+Fraser Island (L)
+Baw Baw Village (L)

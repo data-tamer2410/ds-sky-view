@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "sky-view"
+version = "0.1.0"
+description = ""
+authors = ["data-tamer2410 <vitaliy.dayneko2410@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "3.11.*"
+streamlit = "^1.41.1"
+requests = "^2.32.3"
+beautifulsoup4 = "^4.12.3"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^24.10.0"
+pylint = "^3.3.3"
+python-dotenv = "^1.0.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
