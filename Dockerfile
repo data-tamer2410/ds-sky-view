@@ -4,7 +4,7 @@ WORKDIR /app
 COPY ./ ./
 
 RUN pip install --no-cache-dir poetry
-RUN poetry install --no-dev
+RUN poetry install --without dev
 
 EXPOSE 8501
 
